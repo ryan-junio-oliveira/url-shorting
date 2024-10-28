@@ -232,3 +232,9 @@ DB_DATABASE=/caminho/para/seu/database.sqlite
 <h2>Licença</h2>
 <p>Este projeto é fornecido "como está" sem nenhuma garantia.</p>
 </div>
+
+### Referências
+
+Este projeto segue as diretrizes e estruturas propostas no [roadmap.sh](https://roadmap.sh/projects/url-shortening-service).
+
+- Link para o repositório do projeto: [PHP Caching Proxy Server](https://github.com/ryan-junio-oliveira/url-shorting)
